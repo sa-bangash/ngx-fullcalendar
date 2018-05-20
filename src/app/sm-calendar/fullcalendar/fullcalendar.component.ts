@@ -1,5 +1,6 @@
 import { AfterViewInit, Component, ElementRef, OnInit, ViewChild } from '@angular/core';
 
+// fullcalendar
 import * as $ from 'jquery';
 import 'fullcalendar';
 import 'fullcalendar-scheduler';
